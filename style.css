@@ -1,0 +1,56 @@
+body 
+{
+    background-image: url(purplebg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+textarea 
+{
+    
+    background-color: rgba(100, 100, 100, 0.5);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    resize: none
+}
+input 
+{
+    background-color: rgba(100, 100, 100, 0.5);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    display: block;
+    resize: none
+}
+button 
+{
+    background-color: rgba(100, 100, 100, 0.5);
+    display: block;
+    margin: 0 auto;
+}
+a
+{
+    border-radius: 500px;
+    font-size: 20px;
+    color: rgb(105, 255, 248);
+    /* background-color: rgb(255,105,180); */
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+select
+{
+    background-color: rgba(100, 100, 100, 0.5);
+    display: block;
+    margin: 0 auto;
+}
+label
+{
+    border-radius: 500px;
+    font-size: 20px;
+    color: rgb(105, 255, 248);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+canvas
+{
+    margin: auto;
+    display: block;
+}
+h2
+{
+    color: rgb(105, 255, 248);
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+body 
+{
+    background-image: url(tetrixbc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
